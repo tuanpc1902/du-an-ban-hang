@@ -1,0 +1,31 @@
+.detail{
+    width: 100%;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.detail__title{
+    width: 100%;
+    font-size: 2rem;
+}
+
+.detail__body{
+    width: 100%;
+}
+.detail__brand span{
+    font-size: 1.3rem;
+}
+
+.detail__brand .brand{
+    font-size: 1.5rem;
+    color: blue;
+}
+
+.detail__price{
+    width: 100%;
+    padding: 20px 0;
+}
+
+.detail__price .price{
+    font-size: 2.6rem;
+}

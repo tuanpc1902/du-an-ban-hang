@@ -1,0 +1,45 @@
+.header__edit{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.edit__title{
+    font-size: 1.8rem;
+}
+
+.container__edit{
+    width: 100%;
+}
+
+.border__form{
+    width: 100%;
+    /* border: 1px solid black; */
+    padding: 10px;
+    margin: 100px 0;
+}
+
+.form__edit input{
+    margin: 10px 0px;
+    height: 30px;
+    width: 40%;
+    outline: none;
+    padding: 5px;
+    font-size: 1.4rem;
+}
+
+.form__edit select{
+    margin: 10px 0px;
+    height: 30px;
+    width: 40%;
+    outline: none;
+    font-size: 1.4rem;
+}
+/* .id{
+
+}
+
+.name{
+
+} */

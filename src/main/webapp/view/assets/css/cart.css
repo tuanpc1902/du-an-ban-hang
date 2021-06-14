@@ -1,0 +1,31 @@
+.cart__body{
+    width: 100%;
+}
+
+.cart__product{
+    width: 100%;
+    margin: 50px 0;
+}
+
+.cart-title{
+    font-size: 2rem;
+}
+
+.cart__table{
+    width: 100%;
+    text-align: center;
+}
+.cart-table__th{
+    font-size: 1.6rem;
+}
+.cart-link{
+    text-decoration: none;
+}
+
+.cart__link{
+    margin-bottom: 20px;
+}
+
+.btn .btn--primary .btn-hover:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+}
